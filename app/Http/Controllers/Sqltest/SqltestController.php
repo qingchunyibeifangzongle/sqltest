@@ -11,6 +11,5 @@ class SqltestController extends Controller
     {
 
 
-
     }
 }
